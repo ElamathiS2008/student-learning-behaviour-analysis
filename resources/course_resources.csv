@@ -1,0 +1,20 @@
+domain,course,provider,level,cost,resource_url
+Python Programming,Python for Beginners,freeCodeCamp,Beginner,Free,https://www.freecodecamp.org/learn/
+Python Programming,Python Tutorial,Official Python Documentation,Beginner,Free,https://docs.python.org/3/tutorial/
+Java Programming,Java Programming,Oracle,Beginner,Free,https://docs.oracle.com/javase/tutorial/
+Data Structures and Algorithms,Algorithms Course,freeCodeCamp,Intermediate,Free,https://www.freecodecamp.org/
+Web Development,HTML CSS JavaScript,MDN,Beginner,Free,https://developer.mozilla.org/en-US/docs/Learn_web_development
+Data Science,Data Analysis with Python,freeCodeCamp,Intermediate,Free,https://www.freecodecamp.org/learn/
+Artificial Intelligence and Machine Learning,Machine Learning,Google,Beginner,Free,https://developers.google.com/machine-learning
+Cybersecurity,Cybersecurity Learning,Cisco Networking Academy,Beginner,Free,https://www.netacad.com/
+Cloud Computing,Cloud Fundamentals,Microsoft Learn,Beginner,Free,https://learn.microsoft.com/training/
+Embedded Systems,Arduino Learning,Arduino,Beginner,Free,https://docs.arduino.cc/
+VLSI Design,Digital Design Learning,NPTEL,Intermediate,Free,https://nptel.ac.in/
+Internet of Things,IoT Learning,Arduino,Beginner,Free,https://docs.arduino.cc/
+AutoCAD,AutoCAD Learning,Autodesk,Beginner,Free learning resources,https://www.autodesk.com/learn
+SolidWorks,SolidWorks Tutorials,SOLIDWORKS,Beginner,Free learning resources,https://www.solidworks.com/
+Revit and BIM,Revit Learning,Autodesk,Beginner,Free learning resources,https://www.autodesk.com/learn
+Power Systems,Electrical Engineering Courses,NPTEL,Intermediate,Free,https://nptel.ac.in/
+Renewable Energy,Renewable Energy Courses,NPTEL,Intermediate,Free,https://nptel.ac.in/
+Bioinformatics,Bioinformatics Learning,NCBI,Beginner,Free,https://www.ncbi.nlm.nih.gov/
+Aerodynamics,Aerospace Learning,NPTEL,Intermediate,Free,https://nptel.ac.in/

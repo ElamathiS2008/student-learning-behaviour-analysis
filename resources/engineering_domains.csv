@@ -1,0 +1,29 @@
+branch,domain,level,description,career
+Computer Science Engineering,Python Programming,Beginner,Learn programming fundamentals and problem solving,Python Developer
+Computer Science Engineering,Java Programming,Beginner,Learn object oriented programming and Java applications,Java Developer
+Computer Science Engineering,Data Structures and Algorithms,Intermediate,Learn algorithms and efficient problem solving,Software Engineer
+Computer Science Engineering,Web Development,Beginner,Learn HTML CSS JavaScript and web applications,Full Stack Developer
+Computer Science Engineering,Data Science,Intermediate,Learn data analysis statistics and visualization,Data Analyst
+Computer Science Engineering,Artificial Intelligence and Machine Learning,Advanced,Learn machine learning models and intelligent systems,Machine Learning Engineer
+Computer Science Engineering,Cybersecurity,Intermediate,Learn network security and ethical security practices,Security Analyst
+Computer Science Engineering,Cloud Computing,Intermediate,Learn cloud infrastructure and deployment,Cloud Engineer
+Computer Science Engineering,Mobile App Development,Intermediate,Build Android and cross platform applications,Mobile Developer
+Electronics and Communication Engineering,Embedded Systems,Intermediate,Learn microcontrollers and embedded programming,Embedded Engineer
+Electronics and Communication Engineering,VLSI Design,Advanced,Learn digital design and integrated circuits,VLSI Engineer
+Electronics and Communication Engineering,Internet of Things,Intermediate,Build connected devices and sensor applications,IoT Developer
+Electronics and Communication Engineering,PCB Design,Intermediate,Learn electronic circuit board design,Hardware Design Engineer
+Electrical Engineering,Power Systems,Intermediate,Learn generation transmission and distribution,Electrical Engineer
+Electrical Engineering,PLC and SCADA,Intermediate,Learn industrial automation and control,Automation Engineer
+Electrical Engineering,Renewable Energy,Intermediate,Learn solar and sustainable energy systems,Renewable Energy Engineer
+Electrical Engineering,Electric Vehicles,Advanced,Learn EV systems and battery technologies,EV Engineer
+Mechanical Engineering,AutoCAD,Beginner,Learn engineering drafting and design,CAD Designer
+Mechanical Engineering,SolidWorks,Intermediate,Learn 3D modeling and mechanical design,Design Engineer
+Mechanical Engineering,Robotics and Automation,Advanced,Learn robotic systems and automation,Robotics Engineer
+Mechanical Engineering,CNC Manufacturing,Intermediate,Learn computer controlled manufacturing,CNC Engineer
+Civil Engineering,AutoCAD Civil,Beginner,Learn civil drafting and drawings,CAD Engineer
+Civil Engineering,Revit and BIM,Intermediate,Learn building information modeling,BIM Modeler
+Civil Engineering,Structural Analysis,Advanced,Learn structural design and analysis,Structural Engineer
+Civil Engineering,GIS,Intermediate,Learn geographic information systems,GIS Analyst
+Chemical Engineering,Process Engineering,Intermediate,Learn industrial chemical processes,Process Engineer
+Biotechnology,Bioinformatics,Intermediate,Learn computational analysis of biological data,Bioinformatics Analyst
+Aerospace Engineering,Aerodynamics,Advanced,Learn airflow and aircraft performance,Aerospace Engineer
